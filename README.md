@@ -100,8 +100,8 @@ If dispute → Admin reviews → Refund or Release
 
 ```bash
 # Clone the repository
-git clone https://github.com/joewaleed/Lamsat_homemade_E-commerce/
-cd Lamsat_homemade_E-commerce
+git clone https://github.com/joewaleed/Lamsat_handmade_E-commerce
+cd Lamsat_handmade_E-commerce
 
 # Restore dependencies
 dotnet restore

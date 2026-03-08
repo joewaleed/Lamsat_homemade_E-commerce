@@ -43,7 +43,7 @@ In Egypt, thousands of talented homemade artists struggle to sell their work onl
 
 ---
 
-## 💰 Business Model
+<!--## 💰 Business Model
 
 ```
 Buyer pays full amount
@@ -57,7 +57,7 @@ Buyer confirms delivery
 Lamsat takes 10% cut → Seller receives 90%
 
 If dispute → Admin reviews → Refund or Release
-```
+```-->
 
 ---
 
@@ -72,29 +72,6 @@ If dispute → Admin reviews → Refund or Release
 | Payment Gateway | Paymob API (Sandbox) |
 | File Storage | Cloudinary |
 | Version Control | Git + GitHub |
-
----
-
-## 🗂️ Project Structure
-
-```
-Lamsat/
-├── Lamsat.API/             # ASP.NET Core Web API
-│   ├── Controllers/
-│   ├── Middleware/
-│   └── Program.cs
-├── Lamsat.Core/            # Business Logic & Interfaces
-│   ├── Entities/
-│   ├── Interfaces/
-│   └── Services/
-├── Lamsat.Infrastructure/  # Data Access & External Services
-│   ├── Data/
-│   ├── Repositories/
-│   └── Payments/
-└── Lamsat.Frontend/        # Frontend Application
-    ├── src/
-    └── ...
-```
 
 ---
 
@@ -124,8 +101,8 @@ Lamsat/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/lamsat.git
-cd lamsat
+git clone https://github.com/joewaleed/Lamsat_homemade_E-commerce/
+cd Lamsat_homemade_E-commerce
 
 # Restore dependencies
 dotnet restore

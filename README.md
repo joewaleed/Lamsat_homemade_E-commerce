@@ -12,34 +12,34 @@
 
 ---
 
-## 📌 Problem Statement
+## Problem Statement
 
 In Egypt, thousands of talented homemade artists struggle to sell their work online. Existing platforms like Facebook and Instagram offer no buyer or seller protection, leaving both parties vulnerable to fraud. The absence of trusted online payment methods forces transactions into informal cash exchanges, creating friction and distrust. Lamsat solves this by providing a dedicated, trusted marketplace with built-in fraud protection and seamless payment integration.
 
 ---
 
-## 🎯 Target Audience
+## Target Audience
 
 - **Sellers:** Homemade artists and craftspeople looking to sell their creations online
 - **Buyers:** Egyptian consumers aged 18–40 seeking unique, personalized, and handmade products as gifts or for personal use
 
 ---
 
-## ✨ Core Features
+## Core Features
 
-- 🔐 **Role-Based Authentication** — Admin, Buyer, and Seller roles
-- 🏪 **Seller Storefront** — Verified artist profiles with custom storefronts
-- 🛍️ **Product Listings** — Images, descriptions, categories, and pricing
-- 🛒 **Shopping Cart** — Session-managed cart with seamless checkout
-- 💳 **Secure Payments** — Paymob API (Sandbox) with EGP support
-- 🔒 **Fraud Protection** — Platform-held payments with delivery confirmation before fund release
-- 💰 **10% Commission Model** — Lamsat takes 10%, 90% released to seller after delivery
-- 📦 **Order Tracking** — Real-time order status for buyers and sellers
-- ⭐ **Reviews & Ratings** — Verified purchase reviews for products and sellers
-- ⚖️ **Dispute Management** — Admin-mediated conflict resolution with refund support
-- ✅ **Seller Verification** — Admin approval system for new seller registrations
-- 📊 **Admin Dashboard** — Full platform management, analytics, and reporting
-- 💸 **Seller Withdrawals** — Sellers can withdraw balance to bank or Vodafone Cash
+- **Role-Based Authentication** — Admin, Buyer, and Seller roles
+- **Seller Storefront** — Verified artist profiles with custom storefronts
+- **Product Listings** — Images, descriptions, categories, and pricing
+- **Shopping Cart** — Session-managed cart with seamless checkout
+- **Secure Payments** — Paymob API (Sandbox) with EGP support
+- **Fraud Protection** — Platform-held payments with delivery confirmation before fund release
+- **10% Commission Model** — Lamsat takes 10%, 90% released to seller after delivery
+- **Order Tracking** — Real-time order status for buyers and sellers
+- **Reviews & Ratings** — Verified purchase reviews for products and sellers
+- **Dispute Management** — Admin-mediated conflict resolution with refund support
+- **Seller Verification** — Admin approval system for new seller registrations
+- **Admin Dashboard** — Full platform management, analytics, and reporting
+- **Seller Withdrawals** — Sellers can withdraw balance to bank or Vodafone Cash
 
 ---
 
@@ -62,7 +62,7 @@ If dispute → Admin reviews → Refund or Release
 ---
 -->
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -76,7 +76,7 @@ If dispute → Admin reviews → Refund or Release
 
 ---
 
-## 🗃️ Database Entities
+## Database Entities
 
 - `Users` — Buyers, Sellers, and Admins
 - `Sellers` — Storefront info, verification status, and balance
@@ -90,7 +90,7 @@ If dispute → Admin reviews → Refund or Release
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - .NET 10 SDK
@@ -143,7 +143,7 @@ Create `appsettings.Development.json` and fill in:
 
 ---
 
-## 👥 Team
+## Team
 
 | Name | Role |
 |---|---|
@@ -156,7 +156,7 @@ Create `appsettings.Development.json` and fill in:
 
 ---
 
-## 📄 License
+## License
 
 This project was developed as a graduation project for **DEPI (Digital Egypt Pioneers Initiative)**.
 

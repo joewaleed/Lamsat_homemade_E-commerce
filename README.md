@@ -92,9 +92,8 @@ If dispute → Admin reviews → Refund or Release
 ## 🚀 Getting Started
 
 ### Prerequisites
-- .NET 8 SDK
+- .NET 10 SDK
 - SQL Server
-- Node.js (for frontend)
 - Paymob sandbox account
 
 ### Installation

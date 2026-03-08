@@ -8,7 +8,7 @@
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
 ![Paymob](https://img.shields.io/badge/Paymob-Payment_Gateway-00A86B?style=for-the-badge)
 
-> A full-stack e-commerce platform built for Egyptian homemade artists and craftspeople — with fraud protection, integrated online payments, and a 10% platform commission model.
+> A full-stack e-commerce platform built for Egyptian homemade artists and craftspeople with fraud protection, integrated online payments, and a 10% platform commission model.
 
 ---
 

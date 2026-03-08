@@ -57,9 +57,10 @@ Buyer confirms delivery
 Lamsat takes 10% cut → Seller receives 90%
 
 If dispute → Admin reviews → Refund or Release
-```-->
+```
 
 ---
+-->
 
 ## 🛠️ Tech Stack
 
